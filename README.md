@@ -94,7 +94,8 @@
 - [Feathers + Next.js](https://github.com/Albert-Gao/feathers-next-example)
 - [Feathers + Aor-feathers-client + Admin on Rest](https://github.com/kfern/feathers-aor-test-integration)
 - [MyEthereum.app: Feathers + Sequelize + React + Redux + Jest + Zeit deployments](https://github.com/petermikitsh/myethereumapp)
-- [Feathers + Vue and Nuxt](https://github.com/7kmCo/feathers-vue-nuxt) Nuxt.js or Vue.js templates.
+- [Feathers + Vue and Nuxt](https://github.com/7kmCo/feathers-vue-nuxt) Nuxt.js or Vue.js templates.  
+- [Feathers JS + Nuxt JS Boilerplate](https://gitlab.com/fexell/featherjs-nuxtjs-boilerplate) <- (Link leads to Gitlab) | Includes already built functionality such as: Login, Sign up, Automatic Authentication, Notifications, Vuex, etc.
 
 ## Projects Using Feathers
 
